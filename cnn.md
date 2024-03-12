@@ -345,7 +345,9 @@ Adagrad adapts the learning rate for each weight parameter in the neural network
 #### Adam
 
 Adam is an optimization algorithm that combines the advantages of both SGD with momentum and Adagrad. It calculates separate adaptive learning rates for each weight parameter based on the first and second moments of the gradients.
-```/n## Transfer Learning: Leveraging Pre-trained Models for Efficient Learning
+
+/n
+## Transfer Learning: Leveraging Pre-trained Models for Efficient Learning
 
 ### Introduction
 
@@ -590,7 +592,7 @@ Capsule Networks (CapsNets) are an alternative to traditional CNNs that aim to a
 # Conclusion
 
 Staying up-to-date with the latest developments in CNN research is crucial for computer vision practitioners and researchers to build more powerful and robust object detection models.
-```/n# Best Practices for Implementing CNNs
+# Best Practices for Implementing CNNs
 
 Convolutional Neural Networks (CNNs) have demonstrated remarkable results in various applications, such as image classification, object detection, and segmentation tasks. To make the most out of these powerful models, it's essential to follow best practices, which include data augmentation, regularization techniques, and hardware acceleration.
 
